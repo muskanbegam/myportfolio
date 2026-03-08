@@ -1,0 +1,88 @@
+{
+  "workData": [
+    {
+      "title": "Consultant Group Website",
+      "client": "2 Oceans",
+      "slug": "https://2oceans.in/",
+      "image": "/images/work/2oceans.jpeg",
+      "category": "websites"
+    },
+     {
+      "title": "Cafe Website",
+      "client": "Cafe Luna",
+      "slug": "/work/cafe",
+      "image": "/images/work/work-img-1.jpg",
+      "category": "websites"
+    },
+    {
+      "title": "Lead Scraper",
+      "client": "Startup",
+      "slug": "/work/scraper",
+      "image": "/images/work/work-img-1.jpg",
+      "category": "automation"
+    },
+    {
+      "title": "Lead Scraper",
+      "client": "Startup",
+      "slug": "/work/scraper",
+      "image": "/images/work/work-img-1.jpg",
+      "category": "automation"
+    },
+    {
+      "title": "Lead Scraper",
+      "client": "Startup",
+      "slug": "/work/scraper",
+      "image": "/images/work/work-img-1.jpg",
+      "category": "automation"
+    },
+    {
+      "title": "Lead Scraper",
+      "client": "Startup",
+      "slug": "/work/scraper",
+      "image": "/images/work/work-img-1.jpg",
+      "category": "automation"
+    },
+    {
+      "title": "Lead Scraper",
+      "client": "Startup",
+      "slug": "/work/scraper",
+      "image": "/images/work/work-img-1.jpg",
+      "category": "automation"
+    },
+    {
+      "title": "Lead Scraper",
+      "client": "Startup",
+      "slug": "/work/scraper",
+      "image": "/images/work/work-img-1.jpg",
+      "category": "automation"
+    },
+    {
+      "title": "Scam Detection AI",
+      "client": "Internal",
+      "slug": "/work/scam-ai",
+      "image": "/images/work/work-img-1.jpg",
+      "category": "ai"
+    },
+     {
+      "title": "Scam Detection AI",
+      "client": "Internal",
+      "slug": "/work/scam-ai",
+      "image": "/images/work/work-img-1.jpg",
+      "category": "ai"
+    },
+     {
+      "title": "Scam Detection AI",
+      "client": "Internal",
+      "slug": "/work/scam-ai",
+      "image": "/images/work/work-img-1.jpg",
+      "category": "ai"
+    },
+     {
+      "title": "Scam Detection AI",
+      "client": "Internal",
+      "slug": "/work/scam-ai",
+      "image": "/images/work/work-img-1.jpg",
+      "category": "ai"
+    }
+  ]
+}

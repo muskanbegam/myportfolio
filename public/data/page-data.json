@@ -1,0 +1,104 @@
+{
+  "contactBar": {
+    "contactItems": [
+      {
+        "type": "email",
+        "label": "mkmuskanbegam@gmail.com",
+        "icon": "/images/icon/mail-icon.svg",
+        "link": "mailto:mkmuskanbegam@gmail.com"
+      },
+      {
+        "type": "phone",
+        "label": "+91 88840 26467",
+        "icon": "/images/icon/call-icon.svg",
+        "link": "tel:+91 8884026467"
+      },
+      {
+        "type": "website",
+        "label": "www.mywebsite.com",
+        "icon": "/images/icon/web-icon.svg",
+        "link": "https://www.mywebsite.com"
+      }
+    ]
+  },
+  "educationData": {
+    "education": [
+      {
+        "title": "Baldwin Methodist College - 2025",
+        "description": "I’ve completed my Bachelor of Computer Applications (BCA), building a strong foundation in programming, web development, and core computer science concepts — and I’m continuously expanding my skills beyond the classroom."
+      },
+      {
+        "title": "Cathedral Composite College - 2022",
+        "description": "I completed my PCMC (Physics, Chemistry, Mathematics, Computer Science), building a strong analytical and technical foundation that sparked my interest in programming and technology."
+      },
+      {
+        "title": "Police Public School - 2020",
+        "description": "I completed my schooling with a strong academic foundation, where I developed discipline, curiosity, and an early interest in technology that later shaped my journey into the tech field."
+      }
+    ],
+    "skills": [
+      {
+        "name": "Figma",
+        "icon": "/images/home/education-skill/figma-icon.svg",
+        "rating": 5
+      },
+      {
+        "name": "Python",
+        "icon": "/images/home/education-skill/python.png",
+        "rating": 5
+      },
+      {
+        "name": "React",
+        "icon": "/images/home/education-skill/react.png",
+        "rating": 4
+      },
+      {
+        "name": "Automation",
+        "icon": "/images/home/education-skill/automation.png",
+        "rating": 4
+      },
+      {
+        "name": "Framer",
+        "icon": "/images/home/education-skill/framer-icon.svg",
+        "rating": 5
+      },
+      {
+        "name": "Tailwind CSS",
+        "icon": "/images/home/education-skill/tailwind.png",
+        "rating": 3
+      }
+    ]
+  },
+  "contactLinks": {
+    "socialLinks": [
+      {
+        "title": "LinkedIn",
+        "href": "https://www.linkedin.com/in/muskan-begam/"
+      },
+      {
+        "title": "Instagram",
+        "href": "/"
+      },
+      {
+        "title": "Github",
+        "href": "https://github.com/muskanbegam"
+      },
+       {
+        "title": "YouTube",
+        "href": "https://www.youtube.com/@DevDrafts"
+      }
+    ],
+    "contactInfo": [
+      {
+        "type": "email",
+        "label": "mkmuskanbegam@gmail.com",
+        "link": "mailto:hello@imsruthi.com"
+      },
+      {
+        "type": "phone",
+        "label": "+91 88840 26467",
+        "link": "tel:+90155882500"
+      }
+    ]
+  }
+}
