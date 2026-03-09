@@ -6,8 +6,8 @@ import { useEffect, useState } from "react";
 
 const categories = [
   { label: "Web Sites", value: "websites" },
-  { label: "Automation with Python", value: "automation" },
-  { label: "AI Applications", value: "ai" },
+  // { label: "Automation with Python", value: "automation" },
+  // { label: "AI Applications", value: "ai" },
 ];
 
 const LatestWork = () => {
