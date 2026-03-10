@@ -3,13 +3,6 @@ import React from 'react';
 const ExperienceSec = () => {
     const experiences = [
         {
-            year: "2024",
-            title: "Junior UX Designer",
-            company: "InfoTech Pvt.Ltd",
-            type: "Fulltime",
-            description: "I’m a UX/UI designer who turns “why is this confusing?” into “wow, that’s smooth.” Clean visuals, thoughtful flows, and a tiny obsession with perfect spacing. Professional, creative, and slightly allergic to bad design."
-        },
-        {
             year: "2025",
             title: "Web Developer",
             company: "Disha Medias",
@@ -25,7 +18,7 @@ const ExperienceSec = () => {
         },
         {
             year: "2026+",
-            title: "Python Backend and Automation",
+            title: "Software Engineering Freelance",
             company: "2Oceans",
             type: "Fulltime",
             description: "I specialize in Python Automation, building smart scripts and workflows that handle repetitive tasks so people don’t have to. I focus on clean, efficient solutions that save time, reduce errors, and make systems run smoother behind the scenes."
